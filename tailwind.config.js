@@ -4,7 +4,8 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				'backGround': 'var(--foreground)'
+				'backGround': 'var(--foreground)',
+				'ijoMuda': 'var(--ijoMuda)',
 			}
 		},
 	},
